@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @coderakbar
+- 👀 I’m interested in C/C++,java/javascript,python,django,flutter,reactnative
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on cloud computing projects
+- 📫 akhbar.faiz2002@gmail.com.
