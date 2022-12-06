@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @coderakbar
-- 👀 I’m interested in C/C++,java/javascript,python,django,flutter,reactnative
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on cloud computing projects
-- 📫 akhbar.faiz2002@gmail.com.
+- 👀 I’m interested in C/C++,java/javascript,python,django,flutter,SWIFT, Rust
+- 🌱 I’m currently learning DSA through C/C++, Rust, Python
+- ❤️ I would love a mentored oppurtunity to learn about ML through projects or apprenticeship
+- 💞️ I'm looking for developement oppurtunities using JS, Tailwind,Swift
+- 📫 akhbar.faiz2002@gmail.com
